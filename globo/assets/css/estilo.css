@@ -1,0 +1,18 @@
+#globo{
+    position: relative;
+    right: 550px;
+    color: rgb(88, 88, 255);
+}
+
+
+h1{
+    color: red;
+}
+
+#heat{
+    color: green;
+}
+
+#casal{
+    color: orange;
+}
